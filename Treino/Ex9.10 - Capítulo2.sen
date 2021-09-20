@@ -1,0 +1,4 @@
+7.2.4.28445wnds:Windows 86.2SntFC1542462955636D1542463329681S829012/x Tet(x)/x (Tet(x) & Large(x))
+; There is a tetrahedron that is large? /x (Tet(x) | Large(x))/x ((Tet(x) & ~Tet(x)) | Large(x))/x (~Tet(x) | Large(x))/x (Tet(x) $ Large(x))/x (~Cube(x) | Between(x, a, b))/x (Cube(x) $ Between(x, a, b))/x (Cube(x) & Between(x, a, b))
+;There is a cube between a and b? /x Dodec(x) & /y Large(y)/x Dodec(x) & /x Large(x)/x (Dodec(x) & Large(x))
+;There is a large dodecahedron? s=76644;

@@ -1,0 +1,1 @@
+7.2.4.28445wnds:Windows 86.2SntFC1542463688088D1542464679142S822910@x (Tet(x) $ Small(x))@y (Cube(y)  $ Small(y))@z (Dodec(z) $ (Small(z) | Medium(z) | Large(z)))/u (Dodec(u) & Large(u))/v (Dodec(v) & ~Large(v))/w  (Dodec(w) & Small(w))/x (Dodec(x) & ~Small(x))/y (Dodec(y) & ~(Large(y) | Small(y)))@z (Tet(z) $ ~Large(z))@u (Cube(u) $ ~Large(u))s=57020;

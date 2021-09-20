@@ -1,0 +1,4 @@
+1. Atrasado(clara,differencialcalculus) e Atrasado(clara,integralcalculos)
+2. TODOxTODOy (Tema(y,arquitetura) IMPLICA ~Atrasado(x,y))
+3. TODOxTODOyTODOz ((Requisita(x,y) e Requisita(z,y)) IMPLICA x=z)
+4. TODOxTODOy (Atrasado(x,y) IMPLICA Requisita(x,y))

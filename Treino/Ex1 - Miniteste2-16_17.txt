@@ -1,0 +1,4 @@
+1. Ax (Estudante(x) e Matricula(x,mieic)) --> Conclui(x,matematicadiscreta))
+2. Ax (Estudante(x) --> Ey Frequenta(x,y))
+3. Ax (Frequenta(x,programacao) --> (Estudante(x) e Conclui(x,matematicadiscreta)))
+4. Ax (Estudante(x) --> E!y Matricula(x,y))
